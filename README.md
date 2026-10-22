@@ -5,19 +5,6 @@
 > **提示**：本仓库专用于版本分发与客户端在线升级检测，不承载任何编译任务（0 Actions 额度消耗）。
 
 ---
-
-## 🚀 最新版本：v2.7.17 (全平台稳定版)
-
-### 📺 Android TV 电视端下载 (红果短剧火山 CDN 1080P 秒开起播)
-* **海信电视专属版 (强烈推荐海信电视安装，免报毒、硬件解码流畅)**：
-  👉 [LunaTV-TV-v2.7.17-hisense.apk](https://github.com/1736608552/LunaTV-Release/releases/download/v2.7.17/LunaTV-TV-v2.7.17-hisense.apk) (28.73 MB)
-* **标准 64 位 TV 版 (主流智能电视/小米/索尼/TCL/当贝/外贸盒子)**：
-  👉 [LunaTV-TV-v2.7.17-arm64-v8a.apk](https://github.com/1736608552/LunaTV-Release/releases/download/v2.7.17/LunaTV-TV-v2.7.17-arm64-v8a.apk) (30.94 MB)
-* **标准 32 位 TV 版 (老款电视/普及型机顶盒兼容模式)**：
-  👉 [LunaTV-TV-v2.7.17-armeabi-v7a.apk](https://github.com/1736608552/LunaTV-Release/releases/download/v2.7.17/LunaTV-TV-v2.7.17-armeabi-v7a.apk) (28.73 MB)
-
----
-
 ### 📱 Android 手机端下载 (智能防串包)
 * **手机端完整正式版 (全架构支持)**：
   👉 [LunaTV-Mobile-v2.7.17.apk](https://github.com/1736608552/LunaTV-Release/releases/download/v2.7.17/LunaTV-Mobile-v2.7.17.apk) (128.75 MB)
@@ -35,7 +22,6 @@
 ### 🍏 iOS 苹果免签端下载
 * **iOS 免签名 IPA 安装包 (支持巨魔/个人证书自签)**：
   👉 [LunaTV-Mobile-v2.7.17-unsigned.ipa](https://github.com/1736608552/LunaTV-Release/releases/download/v2.7.17/LunaTV-Mobile-v2.7.17-unsigned.ipa) (17.82 MB)
-
 ---
 
 ### 🛡️ 完整性校验
