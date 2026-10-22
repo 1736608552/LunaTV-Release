@@ -1,51 +1,53 @@
 # 🌙 LunaTV 官方全平台发布与在线更新中心
 
-本仓库为 **LunaTV** 官方跨平台正式发布包托管与在线热更新分发中心。所有平台（Android 电视端、Android 手机端、Windows PC 端、iOS 苹果端）的最新稳定版安装包均在此统一分发。
+本仓库为 **LunaTV** 官方跨平台正式发布包托管与在线热更新分发中心。所有平台（Android 电视端、Android 手机端、Windows PC 端、iOS 苹果端）的最新版本均在此统一托管。
+
+> 📌 **本页所有下载链接均为官方【永久最新版通用直链】**：无论版本如何迭代，点击均会自动重定向下载最新稳定版安装包，无需每次更新修改文档。
 
 ---
 
-## 📺 Android 电视端 / TV 盒子下载 (重点推荐)
+## 📺 Android 电视端 / TV 盒子 (永久最新直链)
 
-> 💡 **核心自愈说明**：v2.7.17 已彻底根治红果短剧（如《雾锁情迷》、《烛九阴第二季》等）在海信等电视端播放黑屏、卡在 `00:00` 的问题。采用原生直通方案与低配硬件解码适配，秒开起播！
+> 💡 **电视端优化**：全面适配智能电视与电视盒子，彻底自愈红果短剧等资源播放黑屏与卡在 `00:00` 的问题；支持遥控器深度交互、硬件解码低延迟秒开起播。
 
-* **🔥 海信电视专属短剧自愈版 (强烈推荐海信电视用户下载)**：
-  * 👉 **版本直链**：[LunaTV-TV-v2.7.17-hisense.apk](https://github.com/1736608552/LunaTV-Release/releases/download/v2.7.17/LunaTV-TV-v2.7.17-hisense.apk) (28.73 MB)
-  * 👉 **通用直链**：[LunaTV-TV-hisense.apk](https://github.com/1736608552/LunaTV-Release/releases/download/v2.7.17/LunaTV-TV-hisense.apk) (28.73 MB)
-* **🚀 标准 64位 TV 版 (arm64-v8a，适用于小米/索尼/TCL/雷鸟等主流电视盒子)**：
-  * 👉 **版本直链**：[LunaTV-TV-v2.7.17-arm64-v8a.apk](https://github.com/1736608552/LunaTV-Release/releases/download/v2.7.17/LunaTV-TV-v2.7.17-arm64-v8a.apk) (30.94 MB)
-  * 👉 **通用直链**：[LunaTV-TV-arm64-v8a.apk](https://github.com/1736608552/LunaTV-Release/releases/download/v2.7.17/LunaTV-TV-arm64-v8a.apk) (30.94 MB)
-* **⚡ 标准 32位 TV 兼容版 (armeabi-v7a，适用于老旧电视盒子/低配电视设备)**：
-  * 👉 **版本直链**：[LunaTV-TV-v2.7.17-armeabi-v7a.apk](https://github.com/1736608552/LunaTV-Release/releases/download/v2.7.17/LunaTV-TV-v2.7.17-armeabi-v7a.apk) (28.73 MB)
-  * 👉 **通用直链**：[LunaTV-TV-armeabi-v7a.apk](https://github.com/1736608552/LunaTV-Release/releases/download/v2.7.17/LunaTV-TV-armeabi-v7a.apk) (28.73 MB)
-
----
-
-## 📱 Android 手机端下载 (智能防串包)
-
-> 💡 **防串包提示**：软件内置智能过滤逻辑，手机端在线更新只会下载移动端 APK，绝不误下电视版。
-
-* **📱 手机端完整正式版 (全架构自适应)**：
-  * 👉 **版本直链**：[LunaTV-Mobile-v2.7.17.apk](https://github.com/1736608552/LunaTV-Release/releases/download/v2.7.17/LunaTV-Mobile-v2.7.17.apk) (128.75 MB)
-  * 👉 **通用直链**：[app-release.apk](https://github.com/1736608552/LunaTV-Release/releases/download/v2.7.17/app-release.apk) (128.75 MB)
+* **🔥 海信电视专属自愈版 (海信电视用户强烈推荐)**：
+  * 👉 **点击直接下载**：[LunaTV-TV-hisense.apk](https://github.com/1736608552/LunaTV-Release/releases/latest/download/LunaTV-TV-hisense.apk)
+  * *说明：深度适配海信电视硬件芯片与解码器，修复黑屏与卡顿*
+* **🚀 标准 Android 电视 64位版 (arm64-v8a)**：
+  * 👉 **点击直接下载**：[LunaTV-TV-arm64-v8a.apk](https://github.com/1736608552/LunaTV-Release/releases/latest/download/LunaTV-TV-arm64-v8a.apk)
+  * *说明：适用于小米、索尼、TCL、雷鸟等近年主流智能电视与电视盒子*
+* **⚡ 标准 Android 电视 32位兼容版 (armeabi-v7a)**：
+  * 👉 **点击直接下载**：[LunaTV-TV-armeabi-v7a.apk](https://github.com/1736608552/LunaTV-Release/releases/latest/download/LunaTV-TV-armeabi-v7a.apk)
+  * *说明：适用于早期老旧智能电视、32位低配置电视盒子*
 
 ---
 
-## 💻 Windows PC 电脑桌面端下载
+## 📱 Android 手机端 (永久最新直链)
 
-* **💻 Windows 64位 绿色免安装版 (解压后直接双击 LunaTV.exe 即可播放)**：
-  * 👉 **版本直链**：[LunaTV-PC-v2.7.17-windows-x64.zip](https://github.com/1736608552/LunaTV-Release/releases/download/v2.7.17/LunaTV-PC-v2.7.17-windows-x64.zip) (33.76 MB)
-  * 👉 **通用直链**：[LunaTV-PC-windows-x64.zip](https://github.com/1736608552/LunaTV-Release/releases/download/v2.7.17/LunaTV-PC-windows-x64.zip) (33.76 MB)
+> 💡 **防串包保障**：客户端内置多层设备识别，手机端在软件内检测更新时仅匹配移动端包，杜绝误装电视版。
 
----
-
-## 🍏 iOS 苹果免签端下载
-
-* **🍏 iOS 免签名 IPA 安装包 (支持巨魔 TrollStore、爱思助手、自签证书安装)**：
-  * 👉 **版本直链**：[LunaTV-Mobile-v2.7.17-unsigned.ipa](https://github.com/1736608552/LunaTV-Release/releases/download/v2.7.17/LunaTV-Mobile-v2.7.17-unsigned.ipa) (17.82 MB)
-  * 👉 **通用直链**：[app-release-unsigned.ipa](https://github.com/1736608552/LunaTV-Release/releases/download/v2.7.17/app-release-unsigned.ipa) (17.82 MB)
+* **📱 Android 手机端完整版 (全架构自适应)**：
+  * 👉 **点击直接下载**：[app-release.apk](https://github.com/1736608552/LunaTV-Release/releases/latest/download/app-release.apk)
+  * *说明：支持市面所有主流安卓手机、折叠屏及平板电脑*
 
 ---
 
-## 🛡️ 完整性校验
+## 💻 Windows PC 电脑桌面端 (永久最新直链)
 
-* **SHA-256 校验文件**：[SHA256SUMS.txt](https://github.com/1736608552/LunaTV-Release/releases/download/v2.7.17/SHA256SUMS.txt)
+* **💻 Windows 64位 绿色免安装版**：
+  * 👉 **点击直接下载**：[LunaTV-PC-windows-x64.zip](https://github.com/1736608552/LunaTV-Release/releases/latest/download/LunaTV-PC-windows-x64.zip)
+  * *说明：下载后直接解压运行 `LunaTV.exe` 即可使用，无需复杂安装*
+
+---
+
+## 🍏 iOS 苹果端 (永久最新直链)
+
+* **🍏 iOS 免签名 IPA 安装包**：
+  * 👉 **点击直接下载**：[app-release-unsigned.ipa](https://github.com/1736608552/LunaTV-Release/releases/latest/download/app-release-unsigned.ipa)
+  * *说明：支持巨魔 (TrollStore)、爱思助手、AltStore 或个人证书自签安装*
+
+---
+
+## 🛡️ 完整性校验与历史版本
+* **最新版本 SHA-256 校验文件**：[SHA256SUMS.txt](https://github.com/1736608552/LunaTV-Release/releases/latest/download/SHA256SUMS.txt)
+* **查看全部历史发布版本**：[Releases 列表](https://github.com/1736608552/LunaTV-Release/releases)
