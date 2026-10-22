@@ -16,7 +16,7 @@
   * 👉 **点击直接下载**：[LunaTV-TV-arm64-v8a.apk](https://github.com/1736608552/LunaTV-Release/releases/latest/download/LunaTV-TV-arm64-v8a.apk)
   * *说明：适用于小米、索尼、TCL、雷鸟等近年主流智能电视与电视盒子*
 * **⚡ 标准 Android 电视 32位兼容版 (armeabi-v7a)**：
-  * 👉 **点击直接下载**：[LunaTV-TV-armeabi-v7a.apk](https://github.com/1736608552/LunaTV-Release/releases/latest/download/LunaTV-TV-armeabi-v7a.apk)
+  * 👉 **点击直接下载**：[LunaTV-TV-armeabi-v7a.apk](https://github.com/1736608552/LunaTV-Release/releases)
   * *说明：适用于早期老旧智能电视、32位低配置电视盒子*
 
 ---
